@@ -1,3 +1,3 @@
 # List
 List ที่ implement ด้วย Array
-![Uploading GR.JPG…]()
+![image][Uploading GR.JPG…]()
